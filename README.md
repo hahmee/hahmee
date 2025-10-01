@@ -31,6 +31,6 @@ Thinking, researching, and turning ideas into real impact on the web
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahmee&layout=compact&theme=github_dark&bg_color=00000000&size_weight=0.3&count_weight=0.7&hide=c%2B%2B,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# :mailbox_with_mail: Contacts
+# :mailbox_with_mail: Blog & Contact
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=v&logoColor=white)](https://velog.io/@hamye4143)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hahmee01@gmail.com)
