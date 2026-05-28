@@ -2,7 +2,7 @@
 ### Frontend Engineer
 Thinking, researching, and turning ideas into real impact on the web
 
-
+**[Second Brain](https://second-brain-theta-silk.vercel.app/)** 
 # 💪 Skills
 
 ### Language
