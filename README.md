@@ -32,9 +32,6 @@
   </p>
 
 
-
   # :mailbox_with_mail: Blog & Contact
-  [![Blog Badge](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=vercel&logoColor=white)](https://hahmee
-  .vercel.app/blog)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hahmee
-  01@gmail.com)
+  [![Blog Badge](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=vercel&logoColor=white)](https://hahmee.vercel.app/blog)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hahmee01@gmail.com)
