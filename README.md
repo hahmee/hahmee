@@ -32,12 +32,6 @@
   </p>
 
 
-  # 📊 Extra
-  <!-- 원하면 언어 카드 추가 (C++/Swift 등 숨김 예시) -->
-  [![Top
-  Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahmee&layout=compact&theme=github_dark&bg_color
-  =00000000&size_weight=0.3&count_weight=0.7&hide=c%2B%2B,swift)](https://github.com/anuraghazra/github-readme-stats)
-
 
   # :mailbox_with_mail: Blog & Contact
   [![Blog Badge](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=vercel&logoColor=white)](https://hahmee
